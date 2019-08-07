@@ -1,8 +1,10 @@
 # sarashop
 
-A Ecommerce Single Page Application using PWA concepts.
+A Ecommerce Single Page Application using PWA concepts and Agumented Reality.
+It focus on providing feature to have a virtual try of a product to user before they buy it.
+It uses deeping learning approach to detect human faces.
 
-It's an final Project of Nepathya College Student from Butwal,Nepal..
+It's an final Year Project of Nepathya College Student from Butwal,Nepal..
 
 ## Tools
 
@@ -12,6 +14,24 @@ It's an final Project of Nepathya College Student from Butwal,Nepal..
 
 ## Key Features
 
-1) Agumented Relaity
+1) Agumented Reality
 2) Progressive Web Application
 3) Single Page Application
+
+## Link
+https://sarashop.xyz
+
+## Features
+
+1) View Products(Glasses,Shades,Spectacles etc..)
+2) Add to Cart
+3) Try Products Online
+4) Check Out
+
+## Store
+
+   ![Alt text](https://backend.sarashop.xyz/pwa.png)
+   
+## Dashboard
+   ![Alt text](https://backend.sarashop.xyz/Capture.png)
+
