@@ -19,8 +19,8 @@ It's an final Year Project of Nepathya College Student from Butwal,Nepal..
 3) Single Page Application
 
 ## Link
-https://sarashop.xyz
-
+Shop = https://sarashop.xyz
+Dashboard = https://backend.sarashop.xyz
 ## Features
 
 1) View Products(Glasses,Shades,Spectacles etc..)
@@ -29,9 +29,8 @@ https://sarashop.xyz
 4) Check Out
 
 ## Store
-
-   ![Alt text](https://backend.sarashop.xyz/pwa.png)
+   ![Alt text](https://backend.sarashop.xyz/shop.png)
    
 ## Dashboard
-   ![Alt text](https://backend.sarashop.xyz/Capture.png)
+   ![Alt text](https://backend.sarashop.xyz/dashboard.png)
 
