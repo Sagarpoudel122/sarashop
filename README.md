@@ -1,4 +1,4 @@
-# sarashop
+# Sarashop
 
 A Ecommerce Single Page Application using PWA concepts and Agumented Reality.
 It focus on providing feature to have a virtual try of a product to user before they buy it.
